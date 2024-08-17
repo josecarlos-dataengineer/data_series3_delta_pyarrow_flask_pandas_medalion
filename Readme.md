@@ -55,6 +55,7 @@ Execute o arquivo sql\criar_tabelas.sql. Isso criará as tabelas de exemplo, que
 
 ## Gerador de dados
 Execute o arquivo data_generator\generator.py assim que criar as tabelas no SQL, este arquivo irá popular as tabelas com os dados de exemplo.
+***Observação importante é que os dados são gerados de forma aleatória, então cada vez que executar terá soma de valores, nomes e ids diferentes***
 
 ## Flask
 Crie um arquivo chamado .env na mesma pasta da aplicação FLask, com os seguintes dados:
