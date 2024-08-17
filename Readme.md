@@ -1,8 +1,3 @@
-
-Escrever dados de Pandas Dataframe no SQL SERVER.
-
-https://learn.microsoft.com/en-us/sql/machine-learning/data-exploration/python-dataframe-sql-server?view=sql-server-ver16#load-a-dataframe-from-the-csv-file
-
 # Análise de dados
 Neste repositório continuamos os estudos de análise de dados, utilizando a mesma estrutura de dados utilizada em !["estudo_analise_vendas_sql"](https://github.com/josecarlos-dataengineer/estudo_analise_vendas_sql) e !["flask_sql_python_power_bi"](https://github.com/josecarlos-dataengineer/flask_sql_python_power_bi), com uma diferença, neste repositório existe uma pasta chamada data_generator, e nela contém o script para inserção de dados no SQLSERVER.
 
@@ -179,3 +174,9 @@ No link a seguir !["documentação_power_bi"](https://github.com/josecarlos-data
 ![alt text](power_bi/imagens/analise.png)
 
 ![alt text](imagens/power_bi.png)
+
+***links úteis:***
+
+***Escrever dados de Pandas Dataframe no SQL SERVER.***
+
+https://learn.microsoft.com/en-us/sql/machine-learning/data-exploration/python-dataframe-sql-server?view=sql-server-ver16#load-a-dataframe-from-the-csv-file
