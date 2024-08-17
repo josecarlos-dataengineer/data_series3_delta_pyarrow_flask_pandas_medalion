@@ -174,7 +174,7 @@ Returns:
 
 ## Power BI
 
-No link a seguir estão descritas as funções e fórmulas M e DAX utilizadas para criar o Dashboard. A intenção nesse arquivo é apenas nortear a construção das medidas.
+No link a seguir !["documentação_power_bi"](https://github.com/josecarlos-dataengineer/data_series3_delta_pyarrow_flask_pandas_medalion/blob/main/power_bi/power_bi.md#dashboard) estão descritas as funções e fórmulas M e DAX utilizadas para criar o Dashboard. A intenção nesse arquivo é apenas nortear a construção das medidas.
 
 ![alt text](power_bi/imagens/analise.png)
 
