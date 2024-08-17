@@ -21,7 +21,7 @@ O primeiro passo para iniciar o ambiente é criar um ambiente virtual. Você pod
 
 Caso não esteja familiarizado com nenhum, você pode executar:
 
-```
+```python
 python -m venv estudo_api
 ```
 
@@ -29,13 +29,13 @@ Esse comando irá criar um ambiente virtual para que as bibliotecas sejam instal
 
 Após ativar o ambiente virtual, execute.
 
-```
+```python
 pip install -r requirements.txt
 ```
 
 Este comando instalará os pacotes e suas versões contidos no arquivo requirements.txt.
 
-```
+```python
 Flask==2.0.3
 SQLAlchemy==1.4.25
 pyodbc==4.0.32
@@ -59,7 +59,7 @@ Execute o arquivo data_generator\generator.py assim que criar as tabelas no SQL,
 ## Flask
 Crie um arquivo chamado .env na mesma pasta da aplicação FLask, com os seguintes dados:
 
-```
+```python
 server = 'seu server'
 database = 'nome do banco'
 username = 'user '
