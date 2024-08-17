@@ -1,5 +1,5 @@
 # Engenharia / Análise de dados
-Neste repositório continuamos os estudos de análise de dados, utilizando a mesma estrutura de dados utilizada em !["estudo_analise_vendas_sql"](https://github.com/josecarlos-dataengineer/estudo_analise_vendas_sql) e !["flask_sql_python_power_bi"](https://github.com/josecarlos-dataengineer/flask_sql_python_power_bi), com uma diferença, neste repositório existe uma pasta chamada data_generator, e nela contém o script para inserção de dados no SQLSERVER.
+Neste repositório continuamos os estudos de Engenharia/Análise de dados, utilizando a mesma estrutura de dados utilizada em !["estudo_analise_vendas_sql"](https://github.com/josecarlos-dataengineer/estudo_analise_vendas_sql) e !["flask_sql_python_power_bi"](https://github.com/josecarlos-dataengineer/flask_sql_python_power_bi), com uma diferença, neste repositório existe uma pasta chamada data_generator, e nela contém o script para inserção de dados no SQLSERVER.
 
 E também faremos mais algumas mudanças, com a finalidade de avançar na utilização de técnicas.
 
