@@ -7,7 +7,7 @@ Aqui neste estudo introduzimos o conceito de **medalion arquitecture**, utilizan
 deltalake e pyarrow
 
 Um panorama da arquitetura: <br>
-![alt text](imagens/arquitetura.png)
+!["arquitetura"](imagens/arquitetura.png)
 
 ## O caso
 
@@ -175,7 +175,7 @@ O arquivo etl\serving.py cria uma API para serviço dos dados integrados na tabe
 
 No link a seguir !["documentação_power_bi"](https://github.com/josecarlos-dataengineer/data_series3_delta_pyarrow_flask_pandas_medalion/blob/main/power_bi/power_bi.md#dashboard) estão descritas as funções e fórmulas M e DAX utilizadas para criar o Dashboard. A intenção nesse arquivo é apenas nortear a construção das medidas.
 
-![alt text](power_bi/imagens/analise.png)
+
 
 ![alt text](imagens/power_bi.png)
 
