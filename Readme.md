@@ -167,6 +167,10 @@ Returns:
     str: path sem o nome do arquivo
 """ <br>
 
+## Servir os dados da Delta Table OBT via API
+
+O arquivo etl\serving.py cria uma API para serviço dos dados integrados na tabela OBT. Assim a conexão do Power BI pode ser feita por este meio, sem a necessidade de inserir os dados da OBT no SQLSERVER.
+
 ## Power BI
 
 No link a seguir !["documentação_power_bi"](https://github.com/josecarlos-dataengineer/data_series3_delta_pyarrow_flask_pandas_medalion/blob/main/power_bi/power_bi.md#dashboard) estão descritas as funções e fórmulas M e DAX utilizadas para criar o Dashboard. A intenção nesse arquivo é apenas nortear a construção das medidas.
