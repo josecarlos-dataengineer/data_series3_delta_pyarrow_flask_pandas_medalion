@@ -1,0 +1,9 @@
+.env
+data_generator/__pycache__
+data_series
+etl/__pycache__
+etl/1_landing
+etl/2_bronze
+etl/3_silver
+etl/4_gold
+power_bi/análise.pbix
