@@ -1,4 +1,4 @@
-
+## Dashboard
 
 Aqui uma breve explicação das transformações e DAX criadas para o Dashboard. <br>
 No caso de estudo, será tratado de forma muito simples, usando apenas a tabela obt disponível na camada consume. Como nesse estudo só há vendas de um dia, não será utilizada a tabela calendário. A análise temporal é feita sobre as horas em que as vendas foram feitas.
